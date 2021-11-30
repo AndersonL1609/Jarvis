@@ -16,7 +16,7 @@ CFonts.say('𝑨𝒏𝒅𝒆𝒓𝒔𝒐𝒏 𝑳𝒐𝒑𝒆𝒛', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`Jarvis-bot By 𝑨𝒏𝒅𝒆𝒓𝒔𝒐𝒏 𝑳𝒐𝒑𝒆𝒛`, {
+CFonts.say(`Jarvis-bot By Anderson López`, {
   font: 'console',
   align: 'center',
   colors: ['yellow']
