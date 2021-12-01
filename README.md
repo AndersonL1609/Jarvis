@@ -1,24 +1,32 @@
 # JARVIS 
-Bot para Whatsapp con I.A.🤖
+- Bot para Whatsapp con I.A.🤖
 
-Cuenta con más de 50 funciones📄❤️
+- Cuenta con más de 50 funciones📄❤️
+- 𝐄𝐣𝐞𝐦𝐩𝐥𝐨𝐬
+
+- #1 Anti-Link
+
+- #2 Anti-Spam
+
+- #3 Creador de Stickers en movimiento y más...
+
 # Instalar
--Pkg install git
+- Pkg install git
 
--Pkg update && upgrade
+- Pkg update && upgrade
 
--Pkg install bash
+- Pkg install bash
 
--git clone https://github.com/AndersonL1609/Jarvis
+- git clone https://github.com/AndersonL1609/Jarvis
 
--bash install.sh
+- bash install.sh
 
--npm start
+- npm start
 
 # Credits
-Developer --> 𖤍𝐀𝐧𝐝𝐞𝐫𝐬𝐨𝐧 𝐄𝐬𝐭𝐢𝐯 𝐋𝐨𝐩𝐞𝐳 𝐁𝐚𝐧𝐞𝐠𝐚𝐬𖤍
+- Developer --> 𖤍𝐀𝐧𝐝𝐞𝐫𝐬𝐨𝐧 𝐄𝐬𝐭𝐢𝐯 𝐋𝐨𝐩𝐞𝐳 𝐁𝐚𝐧𝐞𝐠𝐚𝐬𖤍
 
-Idea Original --> N.S
+- Idea Original --> N.S.
 
 # Contactar al Desarrollador
 
