@@ -11,13 +11,17 @@
 - #3 Creador de Stickers en movimiento y más...
 
 # Instalar
-- Pkg install git
+- pkg install git
 
-- Pkg update && upgrade
+- pkg update && upgrade
 
-- Pkg install bash
+- pkg install bash
 
 - git clone https://github.com/AndersonL1609/Jarvis
+
+- ls
+
+- cd Jarvis
 
 - bash install.sh
 
